@@ -1,0 +1,32 @@
+Welcome to the first beta of Simple Inventory — a fast, tag-based stock tracker. Everything is new in this build; here's what to try.
+
+Quick stock changes
+• Tap + or − on an item to adjust stock by one; press and hold to count quickly
+• Taps made while the screen is open group into a single history entry, with Undo
+• Swipe right on a list item to add 1 without opening it; swipe left to remove 1 or delete
+• Long-press a list item for +5 and +10 shortcuts and a quick preview
+• Use Adjust for larger or backdated changes — type an amount or tap the presets
+
+Items at a glance
+• Every item shows a ring that fills against your low-stock limit, so you can see how close to empty it is without reading numbers
+• Items turn orange when running low and red when critical
+• The bar above the list shows Low and Critical counts — tap a chip to filter
+• Search can be scoped to Low or Critical items
+
+Tags
+• Assign tags by tapping chips right in the item form; create a new tag by typing its name there
+• Filter the list by tag from the chip bar or the filter menu
+• Tap a tag on an item's screen to see everything else with that tag
+• Rename, recolor, or delete tags from the filter menu's Edit Tags
+
+Item details
+• Stock history reads like a statement: each change shows the resulting total, grouped by day
+• A trend chart shows stock over time against your warning levels
+• Tap the Low and Critical chips to change warning levels in place
+• Swipe a history entry to edit its date or delete it
+• Add a photo with the camera or your library — tap the square next to the item name to change it
+
+Things to test
+• Sync between devices (data is stored in your iCloud)
+• Deleting items, tags, and history entries — nothing should crash or leave a stale screen
+• VoiceOver and larger text sizes
